@@ -1,4 +1,6 @@
-By inviting and using Mistatus Bot you agree that you have read and understand the Terms of Service.
+<h1><b>Terms of Conditions</b></h1>
 
-Mistatus only use your public discord ID for ban users and keep track about bot notifications. we will not share your id and any information.
+These Terms govern the use of Mistatus Bot, and, any other related Agreement or legal relationship with the Owner in a legally binding way.
 
+**Personal Date we collect**
+Mistatus doesn't store your messages. and your personal informations. We only save the guilds settings and your public user ID in a well secured database.
