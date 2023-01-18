@@ -5,5 +5,4 @@ These Terms govern the use of Mistatus Bot, and, any other related Agreement or 
 <b>Personal Date we collect</b><br>
 Mistatus doesn't store your messages. and your personal informations. We only save the guilds settings and your public user ID in a well secured database.
 
-<b>If have any concerns about this reach our support server using discord link https://dsc.gg/mistatus**
-</b>
+<b>If have any concerns about this reach our support server using discord link https://dsc.gg/mistatus</b>
